@@ -1,0 +1,6 @@
+@import url(./vendor/fonts/fonts.css);
+
+h1 {
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  font-weight: bold;
+}
