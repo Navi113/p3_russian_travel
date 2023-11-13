@@ -31,9 +31,11 @@
 /* span-accent */
 @import url(./blocks/span-accent/span-accent.css);
 
+/* gallery */
+@import url(./blocks/gallery/gallery.css);
+@import url(./blocks/gallery/__item/gallery__item.css);
 
-@import url();
-@import url();
+
 @import url();
 @import url();
 @import url();
