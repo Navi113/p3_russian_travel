@@ -1,3 +1,9 @@
 .places__item {
-  
+  display: grid;
+  grid-template-columns: 1fr 49.1%;
+  grid-template-rows: repeat(2, auto);
+  grid-template-areas:
+    "title link"
+    "img description";
+    gap: 48px 40px;
 }
