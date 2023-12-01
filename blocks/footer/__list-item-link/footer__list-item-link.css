@@ -1,0 +1,12 @@
+.footer__list-item-link {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  text-decoration: none;
+  transition: opacity .2s ease-in-out;
+}
+
+.footer__list-item-link:hover {
+  opacity: .5;
+}
