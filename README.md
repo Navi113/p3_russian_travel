@@ -6,4 +6,4 @@
 * ⭕️ 🧭  доработка фавиконок для safari 
 * ⭕️ 📱  💻  🖥️ сделать страницу адаптивной или резиновой
 
-<!-- [Страница проекта The Weather 🌤️](https://navi113.github.io/mp1_the_weather/) -->`
+[Страница проекта The Weather 🌤️](https://navi113.github.io/p3_russian_travel/)
